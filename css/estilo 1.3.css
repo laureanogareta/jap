@@ -1,0 +1,17 @@
+* {
+    background-color: green;
+}
+
+.titulo1 { background-color: red;
+    color: white;
+    
+}
+ 
+.titulo2 {
+    color: white;
+}
+
+.p { color: white;
+    background-color: blue;
+
+}
